@@ -1,0 +1,6 @@
+[submodule "assets/js/vegas"]
+	path = assets/js/vegas
+	url = git://github.com/jaysalvat/vegas.git
+[submodule "assets/fonts/fontawesome"]
+	path = assets/fonts/fontawesome
+	url = git://github.com/FortAwesome/Font-Awesome.git
